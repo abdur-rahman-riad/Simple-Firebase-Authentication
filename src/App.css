@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.user-design{
+  border: 1px solid lightgray;
+  width: 50%;
+  margin: 25px auto;
+  padding:0 10px 10px 10px;
+  border-radius: 5px;
+  background-color: #fff8f0;
+}
+.user-design h2{
+  background-color: teal;
+  padding: 10px;
+  width: 50%;
+  margin: 10px auto;
+  border-radius: 5px;
+  color: white;
+}
+.user-design img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: none;
+}
+.user-design h3,h4{
+  margin: 0;
+}
